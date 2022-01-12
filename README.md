@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @CasperHK
-- 👀 I’m interested in web development (PHP, Laravel, React, Inferno, Bootstrap, Material-UI, Ant Design, React-Bootstrap), Gitea, Ubuntu, Golang
+- 👀 I’m interested in web development (PHP, Laravel, React, Inferno, Bootstrap, Material-UI, Ant Design, React-Bootstrap), Gitea, Ubuntu, Golang, Java
 - 🌱 I’m currently learning React and Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
+
+Technology I dislike: C#, C++, C
 
 <!---
 CasperHK/CasperHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
