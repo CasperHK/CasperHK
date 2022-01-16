@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CasperHK
-- 👀 I’m interested in web development (PHP, Laravel, React, Inferno, Bootstrap, Material-UI, Ant Design, React-Bootstrap), Gitea, Ubuntu, Golang, Java
+- 👀 I’m interested in web development (PHP, Laravel, React, Inferno, Bootstrap, Material-UI, Ant Design, React-Bootstrap, Svelte, Next.js, NuxtJS), Gitea, Ubuntu, Golang, Java
 - 🌱 I’m currently learning React and Laravel.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
